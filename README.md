@@ -1,4 +1,5 @@
 # Hello World, I'm Haluk 👋:computer:
+![](https://github.com/kicikhaluk/kicikhaluk/blob/main/header.svg)
 
 <!--
 **kicikhaluk/kicikhaluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
