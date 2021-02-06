@@ -24,7 +24,7 @@
                 }
            </style> 
            <div class="container">
-               <img draggable="false" src="https://github.com/kicikhaluk/kicikhaluk/blob/main/img/hfk-emoji.png" />
+               <img draggable="false" src=".img/hfk-emoji.png" />
                <p>I am a software developer who is life time student and passionate to building outcomes to elevate people . I enjoy working as a front-end developer and following new technologies.</p>
            </div>
         </div>
