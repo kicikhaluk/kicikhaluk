@@ -1,4 +1,5 @@
 # Hello World, I'm Haluk 👋:computer:
+--------------------------------------------
 ![](https://github.com/kicikhaluk/kicikhaluk/blob/main/header.svg)
 
 <!--
